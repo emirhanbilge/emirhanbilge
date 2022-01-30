@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emirhan Bilge</h1>
 <h3 align="center">A passionate computer engineer from Turkey</h3>
 
-- 📄 Know about my experiences [ebb.pythonanywhere.com](ebb.pythonanywhere.com)
+- 📄 Know about my experiences [http://ebb.pythonanywhere.com/](ebb.pythonanywhere.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
