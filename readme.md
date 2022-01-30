@@ -1,4 +1,3 @@
-Computer programmer with passion ...
 
 
 
